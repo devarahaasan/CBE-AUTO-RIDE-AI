@@ -1,13 +1,10 @@
 # 🛺 Coimbatore Auto-RideFlow AI: End-to-End Intelligent Ride Optimization System (ML & DL)
 
-[![Open in Streamlit](https://streamlit.io)](https://streamlit.io)
-![Python](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![TensorFlow](https://shields.io)
+
 
 ### 🚀 Direct One-Click Deployment & Live App Link
 * **Instant Cloud Deploy Link:** [Click Here to Deploy Directly on Streamlit Cloud](https://cbe-auto-ride-ai-zfwkca7urafopmrond3syk.streamlit.app/)
-* **Live App URL (After Deploying):** `https://streamlit.app` *(Replace with your active `.streamlit.app` URL once deployed)*
+
 
 ---
 
@@ -48,17 +45,4 @@
 
 ---
 
-## 💻 Run Locally
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd YOUR-REPO-NAME
-   ```
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Launch the Streamlit app:**
-   ```bash
-   streamlit run rideflow_app.py
-   ```
+
