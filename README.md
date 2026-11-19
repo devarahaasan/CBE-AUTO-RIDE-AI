@@ -6,7 +6,7 @@
 ![TensorFlow](https://shields.io)
 
 ### 🚀 Direct One-Click Deployment & Live App Link
-* **Instant Cloud Deploy Link:** [Click Here to Deploy Directly on Streamlit Cloud](https://streamlit.io)
+* **Instant Cloud Deploy Link:** [Click Here to Deploy Directly on Streamlit Cloud](https://cbe-auto-ride-ai-zfwkca7urafopmrond3syk.streamlit.app/)
 * **Live App URL (After Deploying):** `https://streamlit.app` *(Replace with your active `.streamlit.app` URL once deployed)*
 
 ---
